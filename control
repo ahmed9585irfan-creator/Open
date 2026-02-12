@@ -8,6 +8,6 @@ Description: launch apps from the command-line
 Name: Open
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=openData
 Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=openData
-Sponsor: thebigboss.org <http://thebigboss.org>
+Sponsor: thebigboss.org <http://thebigboss.org>`
 dev: conradkramer
 Tag: purpose::console, role::hacker
